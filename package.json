@@ -68,7 +68,7 @@
     "helmet": "^3.18.0",
     "hooked-react-stopwatch": "^1.4.8",
     "if-env": "^1.0.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-duration-format": "^2.3.2",
     "mysql2": "^1.6.5",
     "passport": "^0.4.0",
